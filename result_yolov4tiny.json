@@ -1,0 +1,456 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00588.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00565.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.550362, "center_y":0.439647, "width":0.024296, "height":0.042300}, "confidence":0.996997}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00218.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.601640, "center_y":0.556118, "width":0.014465, "height":0.023790}, "confidence":0.997815}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00149.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.525413, "center_y":0.588533, "width":0.020296, "height":0.029287}, "confidence":0.997833}, 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.864939, "center_y":0.267204, "width":0.079245, "height":0.122086}, "confidence":0.989354}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.864545, "center_y":0.398208, "width":0.062047, "height":0.097600}, "confidence":0.990243}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00520.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.300543, "center_y":0.670135, "width":0.039880, "height":0.076945}, "confidence":0.997669}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00028.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.296525, "center_y":0.603779, "width":0.018350, "height":0.033305}, "confidence":0.998016}, 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.591014, "center_y":0.533799, "width":0.042572, "height":0.074441}, "confidence":0.993454}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00123.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.394209, "center_y":0.635461, "width":0.025323, "height":0.037154}, "confidence":0.996903}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.820652, "center_y":0.623568, "width":0.026518, "height":0.039279}, "confidence":0.995252}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00341.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.705676, "center_y":0.624030, "width":0.054382, "height":0.087475}, "confidence":0.995697}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00579.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00244.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.375446, "center_y":0.511047, "width":0.030224, "height":0.050342}, "confidence":0.998269}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.925831, "center_y":0.464905, "width":0.030622, "height":0.061278}, "confidence":0.981863}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00576.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00417.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.062222, "center_y":0.619946, "width":0.068870, "height":0.125389}, "confidence":0.920855}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00460.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.620291, "center_y":0.592086, "width":0.023180, "height":0.035834}, "confidence":0.335505}, 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.620291, "center_y":0.592086, "width":0.023180, "height":0.035834}, "confidence":0.804392}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.619461, "center_y":0.619443, "width":0.021104, "height":0.036824}, "confidence":0.989653}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00459.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.658950, "center_y":0.660000, "width":0.028967, "height":0.037272}, "confidence":0.993746}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.658008, "center_y":0.698080, "width":0.019753, "height":0.031875}, "confidence":0.999579}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00198.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.507901, "center_y":0.533739, "width":0.022188, "height":0.035188}, "confidence":0.975607}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.508231, "center_y":0.563519, "width":0.015742, "height":0.023627}, "confidence":0.590188}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00275.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.163970, "center_y":0.536688, "width":0.022362, "height":0.039602}, "confidence":0.996803}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.893209, "center_y":0.454239, "width":0.031676, "height":0.043465}, "confidence":0.981362}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00144.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.528330, "center_y":0.569011, "width":0.012657, "height":0.021166}, "confidence":0.995901}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00472.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.664207, "center_y":0.651666, "width":0.029752, "height":0.056816}, "confidence":0.967945}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00468.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.843292, "center_y":0.656043, "width":0.024881, "height":0.048376}, "confidence":0.998526}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00419.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.735810, "center_y":0.638996, "width":0.034778, "height":0.067880}, "confidence":0.996924}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00412.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.752466, "center_y":0.652499, "width":0.034996, "height":0.064928}, "confidence":0.990608}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00308.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00197.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.669738, "center_y":0.397400, "width":0.062757, "height":0.097925}, "confidence":0.977017}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00233.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.251112, "center_y":0.624563, "width":0.023864, "height":0.040438}, "confidence":0.989071}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00100.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.319397, "center_y":0.655535, "width":0.029818, "height":0.041309}, "confidence":0.990272}, 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.648985, "center_y":0.652941, "width":0.027394, "height":0.039915}, "confidence":0.890437}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00467.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.845223, "center_y":0.648558, "width":0.023897, "height":0.044352}, "confidence":0.999057}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00371.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.253175, "center_y":0.684717, "width":0.043690, "height":0.072745}, "confidence":0.998778}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00252.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.688743, "center_y":0.512648, "width":0.035107, "height":0.060290}, "confidence":0.996982}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.685837, "center_y":0.436207, "width":0.035621, "height":0.061449}, "confidence":0.995825}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00315.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.142040, "center_y":0.545219, "width":0.027176, "height":0.065450}, "confidence":0.950440}, 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.947384, "center_y":0.493487, "width":0.034277, "height":0.057718}, "confidence":0.947916}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00560.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.786077, "center_y":0.253761, "width":0.047848, "height":0.075676}, "confidence":0.994380}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00092.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.536079, "center_y":0.562661, "width":0.013228, "height":0.027300}, "confidence":0.959304}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.319810, "center_y":0.564455, "width":0.017008, "height":0.037387}, "confidence":0.934738}, 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.319810, "center_y":0.564455, "width":0.017008, "height":0.037387}, "confidence":0.886011}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00432.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.184402, "center_y":0.716985, "width":0.019016, "height":0.032791}, "confidence":0.997837}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.701746, "center_y":0.658940, "width":0.020795, "height":0.033996}, "confidence":0.995707}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00204.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.556087, "center_y":0.362858, "width":0.041256, "height":0.073702}, "confidence":0.992658}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.662917, "center_y":0.246269, "width":0.062267, "height":0.104843}, "confidence":0.995371}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00519.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.352672, "center_y":0.697064, "width":0.039852, "height":0.067052}, "confidence":0.996795}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00486.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.322166, "center_y":0.681859, "width":0.046537, "height":0.073385}, "confidence":0.998600}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00285.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.822516, "center_y":0.412884, "width":0.040869, "height":0.072224}, "confidence":0.999093}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00385.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.212464, "center_y":0.688810, "width":0.030296, "height":0.050095}, "confidence":0.997783}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.732733, "center_y":0.685149, "width":0.031228, "height":0.046524}, "confidence":0.997141}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00314.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.305551, "center_y":0.583514, "width":0.025245, "height":0.042711}, "confidence":0.999607}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.903788, "center_y":0.520086, "width":0.028033, "height":0.044220}, "confidence":0.997492}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00350.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.362193, "center_y":0.699229, "width":0.025752, "height":0.040525}, "confidence":0.998688}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.813933, "center_y":0.696830, "width":0.025536, "height":0.040111}, "confidence":0.995545}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00193.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.575970, "center_y":0.345116, "width":0.071959, "height":0.129138}, "confidence":0.920523}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00054.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.724997, "center_y":0.566634, "width":0.016053, "height":0.039558}, "confidence":0.997829}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.343577, "center_y":0.661110, "width":0.015674, "height":0.025933}, "confidence":0.995222}, 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.833262, "center_y":0.568506, "width":0.027512, "height":0.042068}, "confidence":0.979061}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.831459, "center_y":0.607317, "width":0.022992, "height":0.036005}, "confidence":0.999021}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00131.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.752090, "center_y":0.551553, "width":0.018427, "height":0.029631}, "confidence":0.994103}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.356265, "center_y":0.502097, "width":0.016307, "height":0.029662}, "confidence":0.906432}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00501.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.128632, "center_y":0.418027, "width":0.081936, "height":0.107969}, "confidence":0.996813}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.119186, "center_y":0.868151, "width":0.080261, "height":0.109727}, "confidence":0.980989}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.457194, "center_y":0.707513, "width":0.012020, "height":0.021047}, "confidence":0.999225}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.699898, "center_y":0.710595, "width":0.016943, "height":0.026986}, "confidence":0.996277}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00591.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00266.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.197057, "center_y":0.594591, "width":0.038263, "height":0.066369}, "confidence":0.993037}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00102.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.706382, "center_y":0.424741, "width":0.042345, "height":0.065021}, "confidence":0.990817}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.706252, "center_y":0.493161, "width":0.031497, "height":0.048634}, "confidence":0.997174}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00280.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.849334, "center_y":0.478262, "width":0.034292, "height":0.068587}, "confidence":0.988923}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.785386, "center_y":0.507989, "width":0.023301, "height":0.038600}, "confidence":0.994977}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00497.png", 
+ "objects": [ 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.299848, "center_y":0.786324, "width":0.026701, "height":0.045159}, "confidence":0.988103}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00555.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00316.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.520607, "center_y":0.533100, "width":0.019226, "height":0.030377}, "confidence":0.977906}, 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.742727, "center_y":0.507184, "width":0.021619, "height":0.034727}, "confidence":0.955449}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.740413, "center_y":0.540615, "width":0.018189, "height":0.031784}, "confidence":0.998793}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.521119, "center_y":0.557910, "width":0.018385, "height":0.030462}, "confidence":0.998285}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00590.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00332.png", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00114.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.881956, "center_y":0.564844, "width":0.044521, "height":0.079953}, "confidence":0.998565}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00069.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.608752, "center_y":0.587627, "width":0.014413, "height":0.025795}, "confidence":0.998052}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00351.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.386321, "center_y":0.683500, "width":0.019888, "height":0.032336}, "confidence":0.994615}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00512.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.184092, "center_y":0.628762, "width":0.031998, "height":0.046393}, "confidence":0.997344}, 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.851502, "center_y":0.636920, "width":0.032713, "height":0.047853}, "confidence":0.984794}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00158.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.676510, "center_y":0.531888, "width":0.018611, "height":0.036528}, "confidence":0.998635}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00081.png", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.740196, "center_y":0.328688, "width":0.055726, "height":0.088418}, "confidence":0.996644}, 
+  {"class_id":2, "name":"mandatory", "relative_coordinates":{"center_x":0.172603, "center_y":0.649168, "width":0.009161, "height":0.017908}, "confidence":0.987221}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00480.png", 
+ "objects": [ 
+  {"class_id":0, "name":"prohibitory", "relative_coordinates":{"center_x":0.793487, "center_y":0.585472, "width":0.034243, "height":0.062082}, "confidence":0.996899}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"/content/darknet/data/TrainIJCNN2013/00189.png", 
+ "objects": [ 
+  {"class_id":1, "name":"danger", "relative_coordinates":{"center_x":0.651095, "center_y":0.459334, "width":0.046137, "height":0.077952}, "confidence":0.993357}
+ ] 
+}
+]

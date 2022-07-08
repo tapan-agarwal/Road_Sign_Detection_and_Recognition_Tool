@@ -11,7 +11,7 @@ Link to the YOLO folder - https://drive.google.com/drive/folders/1nsvpAvayyU2OZu
 
 ## Example image before detection  
 
-![App Screenshot](https://github.com/tapan-agarwal/Traffic_Sign_Detection_and_Recognition/blob/main/image_yolov4-custom.jpeg)
+![App Screenshot](https://github.com/tapan-agarwal/Traffic_Sign_Detection_and_Recognition/blob/main/1.png)
 
 # Example image after detection  
 

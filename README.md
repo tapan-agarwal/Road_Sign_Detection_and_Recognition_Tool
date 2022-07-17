@@ -1,4 +1,4 @@
-# Traffic_Sign_Detection_and_Recognition
+# Road_Sign_Detection_and_Recognition_Tool
 
 A Real Time Traffic Sign Detection and Recognition Tool. 
 

@@ -6,13 +6,10 @@ To actually run this code, you have to vist my google drive and then there is a 
 
 Link to the YOLO folder - https://drive.google.com/drive/folders/1nsvpAvayyU2OZuIYceXsMi40RaxU9PpJ?usp=sharing
 
-
-
-
-## Example image before detection  
-
-![App Screenshot](https://github.com/tapan-agarwal/Traffic_Sign_Detection_and_Recognition/blob/main/1.png)
-
 # Example image after detection  
+
+![App Screenshot](https://github.com/tapan-agarwal/Traffic_Sign_Detection_and_Recognition/blob/main/yolov4_image_detected.png)
+
+![App Screenshot](https://github.com/tapan-agarwal/Traffic_Sign_Detection_and_Recognition/blob/main/result_image_yolov4-custom.png)
 
 ![App Screenshot](https://github.com/tapan-agarwal/Traffic_Sign_Detection_and_Recognition/blob/main/2.png)
